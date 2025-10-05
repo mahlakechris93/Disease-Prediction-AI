@@ -28,6 +28,8 @@ Disease-Prediction-AI/
 │
 ├── assets/               # Images, icons, and static assets
 │   └── generated-icon.png
+|   └── 1.png
+|   └── 2.png
 │
 ├── data/                 # Datasets
 │   ├── Testing.csv
