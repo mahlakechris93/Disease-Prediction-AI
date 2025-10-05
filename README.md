@@ -58,10 +58,10 @@ Ai-Driven-Healthcare-Webapp/
 ## Screenshots
 
 ## **UI 1**
-![UI 1](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26%202.png)
+![UI 1](https://github.com/mahlakechris93/Disease-Prediction-AI/blob/main/assets/1.png)
 
 ### **UI 2**
-![UI 2](https://github.com/mahlakechris93/Customer-Retention-Dashboard/blob/main/Screenshot%202025-09-26.png)
+![UI 2](https://github.com/mahlakechris93/Disease-Prediction-AI/blob/main/assets/2.png)
 
    
 ## ⚙️ Setup
