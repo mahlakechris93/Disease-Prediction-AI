@@ -18,7 +18,7 @@ A machine learning-powered web app for predicting diseases from symptoms, with e
 ## 🌳 Project Structure
 
 ```text
-Ai-Driven-Healthcare-Webapp/
+Disease-Prediction-AI/
 │
 ├── .gitignore            # Git ignore rules
 ├── LICENSE               # MIT License
