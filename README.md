@@ -59,7 +59,7 @@ Disease-Prediction-AI/
 ---
 ## Live Demo on Streamlit
 
-[Demo](https://disease-prediction-ai-demo.streamlit.app/)
+🌐 [Live Demo](https://disease-prediction-ai-demo.streamlit.app/)
 --
 
 ## Screenshots
